@@ -1,12 +1,8 @@
-from re import template
 import cv2
 from PIL import Image,ImageTk,ImageOps
 import tkinter as tk
-import tkinter.ttk as ttk
 import time
-from tkinter import messagebox
 import threading
-from cv2 import threshold
 import numpy as np
 
 #######カスタイマイズ用#######
